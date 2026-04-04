@@ -1,4 +1,4 @@
-# Simple Calculator By Using Python
+#Simple Calculator By Using Python
 operator = input()       # Enter the operator
 Number_1 = int(input())  # Enter The Number 1
 Number_2 = int(input())  # Enter The Number 2
