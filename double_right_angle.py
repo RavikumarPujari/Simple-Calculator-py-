@@ -10,5 +10,5 @@ while counter  <= No_of_rows:        #condition
         counter = 0 
         while counter  <= No_of_rows: #condition
          print("* " * counter)        #printing the pattern
-        counter += 1                  #increment
+         counter += 1                  #increment
         
